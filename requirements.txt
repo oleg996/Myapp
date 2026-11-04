@@ -2,5 +2,5 @@ matplotlib
 seaborn
 pandas
 streamlit
-transformers
+transformers<5
 torch
